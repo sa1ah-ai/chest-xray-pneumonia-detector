@@ -1,0 +1,2 @@
+you can download the model from this link:
+https://www.kaggle.com/code/andrihjonior/chest-x-ray-effnetb4-99-training-86-testing/output
